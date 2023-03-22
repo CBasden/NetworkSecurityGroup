@@ -36,11 +36,17 @@ This tutorial explains how to create a Network Security Group (NSG).<br />
 
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fbv33gw.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/srkKTzA.png"/>
+</p>
+<p>
+3. If you choose to, under Tags, enter a Name and a Value. If you chose not to, review all the information and once you're finished, click "Review + Create".
 </p>
 <br />
